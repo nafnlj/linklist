@@ -1,3 +1,4 @@
+- [pacman/Tips and tricks - ArchWiki](https://wiki.archlinux.org/title/pacman/Tips_and_tricks) Arch Wiki tips and tricks for the Pacman package manager. #arch#linux#pacman
 - [List of NScripter Games in English](https://kaisernet.org/onscripter/games.htm) Direct download links for English versions of Japanese visual novels originally written in NScripter. The list notably includes all of the ONScripter visual novels submitted to the al|together 2005, 2006, and 2008 festivals. #visualnovels#gamedl#onscripter
 - [Browsers - DivestOS Mobile](https://divestos.org/pages/browsers) Divest OS's Android browser comparison table with hardening/privacy-menacing tips. #browsers#privacy
 - [Release 2023-06-28 · Galladite27/ONScripter-EN](https://github.com/Galladite27/ONScripter-EN/releases/tag/2023-06-28) Notes on how to enable proportional text mode in with the 6/28/23 build of ONScripter-EN. #onscripter#visualnovels
