@@ -1,3 +1,4 @@
+- [Where can I buy DRM-free ebooks?](https://libreture.com/bookshops/) Libreture's list of legitimate sources for DRM-free ebooks. #ebooks#drm-free
 - [Open Source Intelligence (OSINT) Tools & Resources](https://osint.link/) Up-to-date list of open source intelligence tools. Includes many useful research tools for every-day purposes. #osint#research#search
 - [ChronosWatts.com](https://www.chronoswatts.com/en) A site on power output and doping in professional cycling. #sports#cycling#doping
 - [pacman/Tips and tricks - ArchWiki](https://wiki.archlinux.org/title/pacman/Tips_and_tricks) Arch Wiki tips and tricks for the Pacman package manager. #arch#linux#pacman
