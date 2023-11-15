@@ -1,4 +1,4 @@
-- [Open Source Intelligence (OSINT) Tools & Resources](https://osint.link/) Up-to-date list of open source intelligence tools. Includes many useful research tools for every-day purposes. #osint#research#search-engines
+- [Open Source Intelligence (OSINT) Tools & Resources](https://osint.link/) Up-to-date list of open source intelligence tools. Includes many useful research tools for every-day purposes. #osint#research#search
 - [ChronosWatts.com](https://www.chronoswatts.com/en) A site on power output and doping in professional cycling. #sports#cycling#doping
 - [pacman/Tips and tricks - ArchWiki](https://wiki.archlinux.org/title/pacman/Tips_and_tricks) Arch Wiki tips and tricks for the Pacman package manager. #arch#linux#pacman
 - [List of NScripter Games in English](https://kaisernet.org/onscripter/games.htm) Direct download links for English versions of Japanese visual novels originally written in NScripter. The list notably includes all of the ONScripter visual novels submitted to the al|together 2005, 2006, and 2008 festivals. #visualnovels#gamedl#onscripter
