@@ -1,3 +1,4 @@
+- [Weather Forecast and Weather Forecast Accuracy for Your City](https://forecastadvisor.com/) Good resource for finding the most accurate weather provider for your location. #weather
 - [A Guide to Mojeek Operators](https://blog.mojeek.com/2023/08/mojeek-operators-a-guide.html) The official guide to using search operators in Mojeek. #mojeek#search
 - [SteamDB](https://steamdb.info/) Resource for user reports on how well Windows games run on Linux. #steam#linux#videogames#wine/proton
 - [Where can I buy DRM-free ebooks?](https://libreture.com/bookshops/) Libreture's list of legitimate sources for DRM-free ebooks. #ebooks#drm-free
