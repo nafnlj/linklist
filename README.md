@@ -1,3 +1,4 @@
+- [Discover RSS - Galladite.net](https://galladite.net/~galladite/discoverrss/) Growing web ring focused on tech and small independent blogs put together by Galladite of Galladite of galladite.net. #blogroll#feeds
 - [kb:item_types_and_fields [Zotero Documentation]](https://www.zotero.org/support/kb/item_types_and_fields) Documentation for completing citations in Zotero. #research
 - [Weather Forecast and Weather Forecast Accuracy for Your City](https://forecastadvisor.com/) Good resource for finding the most accurate weather provider for your location. #weather
 - [A Guide to Mojeek Operators](https://blog.mojeek.com/2023/08/mojeek-operators-a-guide.html) The official guide to using search operators in Mojeek. #mojeek#search
