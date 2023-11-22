@@ -1,3 +1,4 @@
+- [Use plaintext email](https://useplaintext.email/) Useful guide to configuring plain text email in many different clients. #email#privacy#security
 - [Standard Ebooks](https://standardebooks.org/) Source for free, well-formatted, public domain ebooks. Also open source. Generally preferred over alternatives except in cases where the ebook in question relies on illustrations. #drm-free#ebooks#free-ebooks
 - [Project Gutenberg](https://www.gutenberg.org/) Large source of free public domain ebooks. #drm-free#ebooks#free-ebooks
 - [Discover RSS - Galladite.net](https://galladite.net/~galladite/discoverrss/) Growing web ring focused on tech and small independent blogs put together by Galladite of Galladite of galladite.net. #blogroll#feeds
