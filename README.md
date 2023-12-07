@@ -1,3 +1,4 @@
+- [webxdc - web apps shared in a chat](https://webxdc.org/) DeltaChat webxdc "store" #deltachat#email#chat#webxdc
 - [gbdev/awesome-gbdev: A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.](https://github.com/gbdev/awesome-gbdev) Links to Game Boy development resources. #gameboy#videogames#gamedevelopment
 - [Use plaintext email](https://useplaintext.email/) Useful guide to configuring plain text email in many different clients. #email#privacy#security
 - [Standard Ebooks](https://standardebooks.org/) Source for free, well-formatted, public domain ebooks. Also open source. Generally preferred over alternatives except in cases where the ebook in question relies on illustrations. #drm-free#ebooks#free-ebooks
