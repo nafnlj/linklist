@@ -1,3 +1,4 @@
+- [Galladite's Guide to ONScripter-EN](https://galladite.net/~galladite/nscripter/guide/guidepages/index.html) A guide to ONScripter-EN by the current maintainer, Galladite. #visualnovels#onscripter
 - [BIA Precedent Chart](https://www.justice.gov/eoir/bia-precedent-chart) Board of Immigration Appeals Precedent Chart. Sorts BIA decisions by topic for volumes 21-27. #bia#immigration-law
 - [Exploring the Personal Web](https://foreverliketh.is/blog/exploring-the-personal-web/) List of webrings for personal, independent websites and blogs. #blogging#webrings#blogroll
 - [Plugins (Zotero Documentation)](https://www.zotero.org/support/plugins) Zotero's official docs page for plugins. Note that some plugins are outdated (e.g., most of the WordPress plugins). Additional plugins can be found on GitHub. #zotero
