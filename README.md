@@ -1,3 +1,4 @@
+- [ZoteroBib: Fast, free bibliography generator - MLA, APA, Chicago, Harvard citations](https://zbib.org/) A free bibliography generator provided by Zotero. #citations#bibliography#zotero
 - [Galladite's Guide to ONScripter-EN](https://galladite.net/~galladite/nscripter/guide/guidepages/index.html) A guide to ONScripter-EN by the current maintainer, Galladite. #visualnovels#onscripter
 - [BIA Precedent Chart](https://www.justice.gov/eoir/bia-precedent-chart) Board of Immigration Appeals Precedent Chart. Sorts BIA decisions by topic for volumes 21-27. #bia#immigration-law
 - [Exploring the Personal Web](https://foreverliketh.is/blog/exploring-the-personal-web/) List of webrings for personal, independent websites and blogs. #blogging#webrings#blogroll
