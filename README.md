@@ -1,3 +1,4 @@
+- [feedle - It's a world of feeds!](https://feedle.world/) A feed search engine. Searches can be subscribed to as feeds. Allows submitting personal sites and podcasts with feeds. #feeds#rss#atom#search
 - [Subiendo como una moto](http://www.climbing-records.com/) Records for best all time performances on major cycling climbs. #sports#pro-cycling#grand-tours#doping
 - [List of DRM-free games on Steam - PCGamingWiki ](https://www.pcgamingwiki.com/wiki/List_of_DRM-free_games_on_Steam) PC Gaming Wiki list of DRM-free games on Steam.  Useful, but not comprehensive. #drm-free#steam#videogames
 - [Ren'Ai Archive](https://renai.us/#) Collection of original English language visual novels -- going back to 2001. #visualnovels#videogames
